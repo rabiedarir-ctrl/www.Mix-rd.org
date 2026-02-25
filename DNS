@@ -1,0 +1,12 @@
+Records DNS
+
+Type: A
+Name: @
+Value: 185.199.108.153
+Value: 185.199.109.153
+Value: 185.199.110.153
+Value: 185.199.111.153
+
+Type: CNAME
+Name: www
+Value: www.mix-rd.com
