@@ -1,4 +1,4 @@
-# Mix Platform — ناطق www.mix-rd.com
+# Mix Platform — ناطق www.mix-rd.org
 
 مرحبًا بك في **Mix Platform**، المنصة الرقمية الموحدة لإدارة المحتوى، المحفظة، الألعاب، والميتافيرس.  
 
@@ -8,7 +8,7 @@
 
 ## الرابط الرسمي للناطق
 
-**[www.mix-rd.com](https://www.mix-rd.com)**
+**[www.mix-rd.com](https://www.mix-rd.org)**
 
 > هذا العنوان يمثل واجهة المشروع الأساسية ويعمل كنظام ناطق على GitHub Pages.
 
@@ -32,7 +32,9 @@
 1. انسخ المستودع أو اضغط **Fork**.
 2. تأكد من وضع **CNAME** مع اسم الناطق `www.mix-rd.com`.
 3. ارفع الملفات على **GitHub Pages**.
-4. افتح الرابط:أو مباشرة عبر **www.mix-rd.com** بعد ضبط DNS.
+4. افتح الرابط:أو مباشرة عبر
+   5. **www.mix-rd.org** 5.
+6. بعد ضبط DNS.
 
 ---
 
@@ -56,7 +58,10 @@
 
 ## الدعم والتواصل
 
-- البريد الإلكتروني: [support@mix-rd.com](mailto:support@mix-rd.com)  
+- البريد الإلكتروني: [support@mix-rd.com]
+- (mailto:support@mix-rd.org)
+
+
 - GitHub Issues: [إرسال تقرير](https://github.com/username/Mix-final/issues)  
 
 ---
@@ -68,5 +73,5 @@
 
 ---
 
-**Mix Platform** — ناطق www.mix-rd.com  
+**Mix Platform** — ناطق www.mix-rd.org  
 منصة رقمية متقدمة لتجربة المستخدم المتكاملة 
