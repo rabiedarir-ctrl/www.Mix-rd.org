@@ -1,4 +1,4 @@
-Records DNS
+هلRecords DNS
 
 Type: A
 Name: @
@@ -9,4 +9,4 @@ Value: 185.199.111.153
 
 Type: CNAME
 Name: www
-Value: www.mix-rd.com
+Value: www.mix-rd.org
