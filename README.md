@@ -25,16 +25,16 @@
 
 ---
 
-## هيكل المستودعMix-final/ │ ├── index.html        # الصفحة الرئيسية للناطق ├── static/           # ملفات CSS و JS │   ├── style.css │   └── main.js ├── manifest.json     # إعدادات PWA (اختياري) ├── CNAME             # لتحديد الناطق www.mix-rd.com� └── README.md         # هذا الملف---
+## هيكل المستودعMix-final/ │ ├── index.html        # الصفحة الرئيسية للناطق ├── static/           # ملفات CSS و JS │   ├── style.css │   └── main.js ├── manifest.json     # إعدادات PWA (اختياري) ├── CNAME             # لتحديد الناطق www.mix-rd.org� └── README.md         # هذا الملف---
 
 ## كيفية التشغيل
 
 1. انسخ المستودع أو اضغط **Fork**.
-2. تأكد من وضع **CNAME** مع اسم الناطق `www.mix-rd.com`.
+2. تأكد من وضع **CNAME** مع اسم الناطق www.mix-rd.org.
 3. ارفع الملفات على **GitHub Pages**.
 4. افتح الرابط:أو مباشرة عبر
-   5. **www.mix-rd.org** 5.
-6. بعد ضبط DNS.
+    **www.mix-rd.org**
+5. بعد ضبط DNS.
 
 ---
 
@@ -58,7 +58,7 @@
 
 ## الدعم والتواصل
 
-- البريد الإلكتروني: [support@mix-rd.com]
+- البريد الإلكتروني: [support@mix-rd.org]
 - (mailto:support@mix-rd.org)
 
 
