@@ -8,7 +8,7 @@
 
 ## الرابط الرسمي للناطق
 
-**[www.mix-rd.com](https://www.mix-rd.org)**
+**[www.mix-rd.org](https://www.mix-rd.org)**
 
 > هذا العنوان يمثل واجهة المشروع الأساسية ويعمل كنظام ناطق على GitHub Pages.
 
